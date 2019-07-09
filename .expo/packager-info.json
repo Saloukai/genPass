@@ -1,9 +1,9 @@
 {
-  "devToolsPort": 19003,
+  "devToolsPort": 19002,
   "expoServerPort": null,
   "packagerPort": null,
   "packagerPid": null,
-  "expoServerNgrokUrl": null,
-  "packagerNgrokUrl": null,
-  "ngrokPid": null
+  "expoServerNgrokUrl": "https://sf-bzr.anonymous.genpass.exp.direct",
+  "packagerNgrokUrl": "https://packager.sf-bzr.anonymous.genpass.exp.direct",
+  "ngrokPid": 6958
 }
